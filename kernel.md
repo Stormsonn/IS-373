@@ -1,3 +1,6 @@
+
+![kernel image](https://github.com/user-attachments/assets/8adfd568-10ca-4791-9870-e725e0182b9a)
+
 The kernel is a core component of an operating system that manages system resources and allows communication between hardware and software. Here are some key functions and characteristics of the kernel:
 
 Resource Management: The kernel manages CPU, memory, and input/output devices, ensuring that each process gets the resources it needs while maintaining system stability.
