@@ -1,5 +1,8 @@
 Containerization and virtualization are both methods for running applications in isolated environments, but they have distinct differences in architecture, resource usage, and deployment. Here’s a breakdown:
 
+![4pzCO01_I1KaUqoFYvDCLqU5GzEC2QhOrAfjoXO5v35YMV8AR4H9MPHBubGVcpawgTfIpllXySbNnqvBUy9oQdXFLceicsvs6UWCpamIEXQ5vAXZjQpwYnWX7DWS4-pt0jJU5ccAt2EbY-teeNoJWXJOwH5ucpbTvbJoGkmaXuLo1N5kNp2HB1qOJwL4_w](https://github.com/user-attachments/assets/2f5cb882-412a-436a-9bbf-cbf048dc15eb)
+
+
 ### Virtualization Architecture:
 
 Virtualization involves creating virtual machines (VMs) that run on a hypervisor. Each VM includes a full operating system, along with the application and its dependencies.
