@@ -1,3 +1,5 @@
+Mac Tutorial - 
+
 To download macOS for use in Oracle VirtualBox, you need to follow a few steps. Please note that running macOS on non-Apple hardware may violate Apple's End User License Agreement (EULA). Make sure you comply with all legal requirements before proceeding.
 
 Steps to Download and Install macOS in Oracle VirtualBox:
@@ -34,3 +36,36 @@ Important Notes:
 Ensure your hardware supports virtualization.
 The performance may not match that of a real Mac.
 Backup your data before experimenting with virtual machines.
+
+Windows Tutorial - 
+
+To download and install Oracle VirtualBox on a Windows machine, follow these steps:
+
+Step-by-Step Guide:
+Visit the Oracle VirtualBox Website:
+
+Open your web browser and go to the Oracle VirtualBox website.
+Download VirtualBox:
+
+On the homepage, click on the "Download VirtualBox" button.
+You will be directed to a page with several download options. Click on the link for Windows hosts to download the installer.
+Run the Installer:
+
+Once the download is complete, locate the installer file (usually in your Downloads folder) and double-click it to run the installer.
+Follow Installation Instructions:
+
+Click Next on the welcome screen.
+Choose the installation location and click Next.
+Select the components you want to install (default settings are usually fine) and click Next.
+You may be prompted to install device software; click Install to proceed.
+If you see a User Account Control prompt, click Yes to allow the installation.
+Complete the Installation:
+
+Once the installation is finished, you can choose to start VirtualBox immediately by checking the appropriate box and clicking Finish.
+Launch VirtualBox:
+
+After installation, you can find VirtualBox in your Start Menu or on your desktop. Open it to start creating and managing virtual machines.
+Additional Tips:
+Make sure your computer meets the system requirements for running VirtualBox.
+If you plan to run specific operating systems in VirtualBox, ensure that your CPU supports virtualization (Intel VT-x or AMD-V).
+Check for the latest updates after installation for optimal performance and security.
