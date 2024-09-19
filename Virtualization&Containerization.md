@@ -20,6 +20,7 @@ Use Cases:
 Virtualization is often used for running multiple operating systems on a single physical server, testing environments, and legacy application support.
 
 ### Containerization Architecture:
+https://github.com/Shaan6695/IS-373/blob/main/Docker.md
 
 Containerization uses containers, which share the host OS kernel but run in isolated user spaces. Containers package an application and its dependencies without needing a full OS.
 Resource Usage:
@@ -35,6 +36,9 @@ Use Cases:
 
 Containerization is commonly used for microservices architectures, DevOps practices, and scalable applications in cloud environments.
 
+To access many of these features it is necessary to have a linux environment which can be provided by installing WSL2.
+
+https://github.com/Shaan6695/IS-373/blob/main/WSL2.md
 ### Summary - 
 Virtualization provides strong isolation and runs multiple full OS instances but is more resource-intensive.
 Containerization is lightweight, shares the OS kernel, and allows for faster deployment but offers less isolation.
