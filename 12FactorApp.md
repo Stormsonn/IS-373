@@ -6,6 +6,45 @@ Following these principles helps teams build robust applications that can effici
 
 ![12fact](https://github.com/user-attachments/assets/9392463e-3eb9-444c-9777-a45ceaee7f87)
 
+# The Twelve Factors
+### I. Codebase
+One codebase tracked in revision control, many deploys
+
+### II. Dependencies
+Explicitly declare and isolate dependencies
+
+### III. Config
+Store config in the environment
+
+### IV. Backing services
+Treat backing services as attached resources
+
+### V. Build, release, run
+Strictly separate build and run stages
+
+### VI. Processes
+Execute the app as one or more stateless processes
+
+### VII. Port binding
+Export services via port binding
+
+### VIII. Concurrency
+Scale out via the process model
+
+### IX. Disposability
+Maximize robustness with fast startup and graceful shutdown
+
+### X. Dev/prod parity
+Keep development, staging, and production as similar as possible
+
+### XI. Logs
+Treat logs as event streams
+
+### XII. Admin processes
+Run admin/management tasks as one-off processes
+
+----------------
+
 1. Codebase
 One codebase tracked in revision control: There should be a single codebase for the application, which is tracked in a version control system (e.g., Git). This codebase can be deployed to multiple environments (development, staging, production).
 
