@@ -21,6 +21,9 @@ Welcome to our Content Mangagement Systems Project!
  
 - ### [Oracle VirtualBox](https://github.com/Shaan6695/IS-373/blob/main/Oracle%20Virtual%20Box.md)
     - Oracle VirtualBox is a free and open-source virtualization software that allows users to run multiple operating systems simultaneously on a single physical machine.
+ 
+- ### [The Twelve Factor-App](https://github.com/Shaan6695/IS-373/blob/main/12FactorApp.md)
+    - The Twelve-Factor App methodology is a set of best practices for building modern, scalable web applications that are suitable for cloud environments.
       
 
 
