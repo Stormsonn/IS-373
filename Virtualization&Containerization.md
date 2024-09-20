@@ -19,8 +19,7 @@ Use Cases:
 
 Virtualization is often used for running multiple operating systems on a single physical server, testing environments, and legacy application support.
 
-### Containerization Architecture:
-https://github.com/Shaan6695/IS-373/blob/main/Docker.md
+### [Containerization Architecture](https://github.com/Shaan6695/IS-373/blob/main/Docker.md)
 
 Containerization uses containers, which share the host OS kernel but run in isolated user spaces. Containers package an application and its dependencies without needing a full OS.
 Resource Usage:
