@@ -1,4 +1,4 @@
-# Virtualization and Containerization are both technologies that allow for running multiple environments on a single physical machine, but they have distinct differences, particularly in how they operate and their resource efficiency. Here's how they compare in the context of Docker (a containerization platform):
+Virtualization and Containerization are both technologies that allow for running multiple environments on a single physical machine, but they have distinct differences, particularly in how they operate and their resource efficiency. Here's how they compare in the context of Docker (a containerization platform):
 
 ![kubernetes-vs-docker-3](https://github.com/user-attachments/assets/2786a0aa-4fc4-470a-836a-a32c86341f3f)
 
