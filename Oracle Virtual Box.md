@@ -40,7 +40,7 @@ Post-Installation Adjustments:
 
 - Once macOS is installed, you may want to install additional tools (like VirtualBox Guest Additions) for better performance, though support is limited.
   
-Important Notes:
+> [!TIP]
 Ensure your hardware supports virtualization.
 The performance may not match that of a real Mac.
 Backup your data before experimenting with virtual machines.
@@ -75,7 +75,7 @@ Launch VirtualBox:
 
 - After installation, you can find VirtualBox in your Start Menu or on your desktop. Open it to start creating and managing virtual machines.
   
-Additional Tips:
+> [!TIP]
 Make sure your computer meets the system requirements for running VirtualBox.
 If you plan to run specific operating systems in VirtualBox, ensure that your CPU supports virtualization (Intel VT-x or AMD-V).
 Check for the latest updates after installation for optimal performance and security.
