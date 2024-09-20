@@ -10,7 +10,7 @@ To download macOS for use in Oracle VirtualBox, you need to follow a few steps. 
 
 Steps to Download and Install macOS in Oracle VirtualBox:
 
-- Go to the Oracle VirtualBox website.
+- [Go to the Oracle VirtualBox website.](https://www.virtualbox.org/)
 Download and install the latest version of VirtualBox for your operating system.
 
 - You can download macOS from the Mac App Store if you have access to a Mac. Look for the version you want (e.g., macOS Ventura).
@@ -48,7 +48,7 @@ Backup your data before experimenting with virtual machines.
 To download and install Oracle VirtualBox on a Windows machine, follow these steps:
 
 Step-by-Step Guide:
-- Visit the Oracle VirtualBox Website:
+- [Visit the Oracle VirtualBox Website:](https://www.virtualbox.org/)
 
 - On the homepage, click on the "Download VirtualBox" button.
   You will be directed to a page with several download options. Click on the link for Windows   hosts to download the installer.
