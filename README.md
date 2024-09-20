@@ -18,6 +18,9 @@ Welcome to our Content Mangagement Systems Project!
  
 - ### [WSL](https://github.com/Shaan6695/IS-373/blob/main/WSL2.md)
     - a compatibility layer that allows you to run a full Linux kernel directly on Windows 10 and Windows 11.
+ 
+- ### [Oracle VirtualBox](https://github.com/Shaan6695/IS-373/blob/main/Oracle%20Virtual%20Box.md)
+    - Oracle VirtualBox is a free and open-source virtualization software that allows users to run multiple operating systems simultaneously on a single physical machine.
       
 
 
