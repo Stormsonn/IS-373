@@ -1,3 +1,9 @@
+## Oracle VirtualBox
+![oraclevirtual](https://github.com/user-attachments/assets/828534ae-acf4-4995-b6e1-82f4974dec74)
+
+
+Oracle VirtualBox is a free and open-source virtualization software that allows users to run multiple operating systems simultaneously on a single physical machine. It creates virtual machines (VMs) that can run various operating systems, such as Windows, Linux, and macOS, in isolated environments. VirtualBox is user-friendly and supports a wide range of guest operating systems, making it a popular choice for developers, testers, and anyone needing to experiment with different OS configurations without affecting the host system.
+
 ### Mac Tutorial - 
 
 To download macOS for use in Oracle VirtualBox, you need to follow a few steps. Please note that running macOS on non-Apple hardware may violate Apple's End User License Agreement (EULA). Make sure you comply with all legal requirements before proceeding.
